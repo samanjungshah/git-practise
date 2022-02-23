@@ -1,0 +1,11 @@
+git --version
+git --config --global user.name "Your Username"
+git --config --global user.email "samanjungshah6781@gmail.com"
+git --config --global user.email -> echos email
+git --config --global --edit  -> we can edit email and username from here
+git add sum.py
+git commit -m "Message for each change"
+git log
+git status
+git add . --> adds all the file in the directory 
+git checkout (hashcode of each change)
